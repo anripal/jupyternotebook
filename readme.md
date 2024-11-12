@@ -11,7 +11,7 @@ Untuk versi presentasi, ada [disini](https://drive.google.com/drive/folders/1Zm_
 
 ---
 
-## **Analisis apa yang saya lakukan? **
+## Analisis apa yang saya lakukan?
 
 **SparksHUB** adalah perusahaan fiksi yang menyediakan perangkat lunak berbasis cloud bagi perusahaan-perusahaan B2B. Dengan solusi ini, pelanggan dapat menggunakan perangkat lunak untuk kebutuhan Sales & Marketing tanpa perlu melakukan installasi di tempat. 
 
