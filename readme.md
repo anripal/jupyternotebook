@@ -44,8 +44,9 @@ Mendapatkan  wawasan strategis untuk menghasilkan kebijakan yang tepat sehingga 
 
 ## **Dataset**
 Kita cek dataset yang dimiliki, ini saat belum melalui proses Data Cleansing:
-![image1](1.PNG)
-![image2](2.PNG)
+<img width="1396" alt="1" src="https://github.com/user-attachments/assets/d33d693f-e45e-4042-952a-f30c637cc713">
+<img width="447" alt="2" src="https://github.com/user-attachments/assets/d49335fe-e194-480a-9ce7-e4bb7d440f2d">
+
 
 ## **Kolom Dataset**
 Berikut petunjuk dari tiap-tiap kolom di database:
@@ -70,8 +71,9 @@ Berikut petunjuk dari tiap-tiap kolom di database:
 19. Profit: Keuntungan dari transaksi
 
 Ini setelah dilakukan Data Cleansing:
-![image3](3.PNG)
-![image4](4.PNG)
+<img width="1396" alt="3" src="https://github.com/user-attachments/assets/cd568d8d-764c-41f6-bae8-d718dfa9155f">
+<img width="327" alt="4" src="https://github.com/user-attachments/assets/5184b211-a419-41ad-a726-53fd0707320d">
+
 
 Sebelum dan setelah dibersihkan, kita tetap memiliki total data yang sama, 9994 baris dan 19 kolom karena tidak ada missing value. Namun, ada beberapa hal yang berubah yaitu:
 1. Penambahan satu kolom baru (`Kategori Profit`) dan penghapusan kolom yang tidak relevan (`Order Date`)
