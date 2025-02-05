@@ -97,31 +97,34 @@ Model terbaik adalah **Tuned** `GradientBoostingRegressor`.
 
 ### **Recommendation**
 - A/B Testing
+
 Implementasikan A/B testing untuk membandingkan keakuratan prediksi harga model dengan metode tradisional, seperti harga pasar atau penilaian oleh agen properti.
 
-Fokuskan uji coba pada apartemen dengan karakteristik unik, seperti unit di lantai atas dengan pemandangan terbuka atau apartemen dengan fasilitas eksklusif (misalnya, private gym, sky garden).
+ - Fokuskan uji coba pada apartemen dengan karakteristik unik, seperti unit di lantai atas dengan pemandangan terbuka atau apartemen dengan fasilitas eksklusif (misalnya, private gym, sky garden).
 
-Analisis apakah model memberikan harga yang lebih akurat dibandingkan metode manual, terutama untuk apartemen dengan fitur premium.
+ - Analisis apakah model memberikan harga yang lebih akurat dibandingkan metode manual, terutama untuk apartemen dengan fitur premium.
 
 Jika model menunjukkan performa yang lebih baik dibandingkan metode tradisional dalam mayoritas kasus, model dapat dijadikan acuan utama dalam menentukan harga properti. Namun, jika model masih memiliki margin error yang besar dalam kasus tertentu, model dapat digunakan sebagai rekomendasi pendukung, dengan verifikasi tambahan oleh agen properti.
 
 - Pengelompokkan Error untuk Optimasi Model
+
 Identifikasi prediksi dengan error tinggi, baik overestimation maupun underestimation. Ambil 5% kasus dengan error paling ekstrim dan analisis hubungannya dengan variabel independen.
 
-Prioritaskan analisis pada apartemen dengan harga tinggi yang memiliki banyak variasi dalam spesifikasi (misalnya, penthouse, unit sudut dengan balkon luas, atau apartemen di gedung baru dengan teknologi smart home).
+ - Prioritaskan analisis pada apartemen dengan harga tinggi yang memiliki banyak variasi dalam spesifikasi (misalnya, penthouse, unit sudut dengan balkon luas, atau apartemen di gedung baru dengan teknologi smart home).
 
-Jika model sering overestimate harga pada unit premium, pertimbangkan untuk menambahkan fitur terkait lokasi, kualitas bangunan, atau preferensi pasar terhadap tipe properti tertentu.
+ - Jika model sering overestimate harga pada unit premium, pertimbangkan untuk menambahkan fitur terkait lokasi, kualitas bangunan, atau preferensi pasar terhadap tipe properti tertentu.
 
 Model dapat digunakan sebagai acuan utama untuk properti dengan spesifikasi standar. Untuk properti dengan harga tinggi atau fitur unik, disarankan model digunakan sebagai rekomendasi tambahan, dengan analisis manual oleh ahli properti.
 
 - Penambahan Fitur yang Lebih Relevan dengan Harga
+
 Tambahkan fitur yang lebih korelatif dengan harga apartemen untuk meningkatkan akurasi prediksi.
 
-Tambahkan jarak ke pusat bisnis atau landmark populer untuk mengetahui dampaknya pada harga apartemen.
+ - Tambahkan jarak ke pusat bisnis atau landmark populer untuk mengetahui dampaknya pada harga apartemen.
 
-Masukkan rating fasilitas umum di sekitar properti (misalnya, skor sekolah, jumlah restoran/kafe terdekat) untuk melihat pengaruhnya terhadap nilai apartemen.
+ - Masukkan rating fasilitas umum di sekitar properti (misalnya, skor sekolah, jumlah restoran/kafe terdekat) untuk melihat pengaruhnya terhadap nilai apartemen.
 
-Gunakan data historis harga jual unit serupa di lokasi yang sama untuk memperhitungkan tren harga properti.
+ - Gunakan data historis harga jual unit serupa di lokasi yang sama untuk memperhitungkan tren harga properti.
 
 Jika fitur tambahan meningkatkan akurasi model secara signifikan, model dapat digunakan sebagai acuan utama. Namun, jika masih terdapat ketidakpastian dalam faktor harga, model tetap digunakan sebagai alat bantu rekomendasi dengan validasi tambahan.
 
@@ -129,9 +132,9 @@ Jika fitur tambahan meningkatkan akurasi model secara signifikan, model dapat di
 
 Model dapat diperluas untuk memprediksi harga properti yang lebih strategis, termasuk apartemen investasi dan unit high-demand.
 
-Fokuskan pengembangan model pada properti yang memiliki permintaan tinggi, seperti unit studio untuk pekerja profesional, apartemen di dekat universitas, atau unit sewa jangka pendek di kawasan wisata.
+ - Fokuskan pengembangan model pada properti yang memiliki permintaan tinggi, seperti unit studio untuk pekerja profesional, apartemen di dekat universitas, atau unit sewa jangka pendek di kawasan wisata.
 
-Analisis perubahan harga musiman untuk properti dengan permintaan dinamis, seperti apartemen di daerah dengan event tahunan besar (misalnya, dekat stadion, pusat konvensi, atau distrik perkantoran utama).
+ - Analisis perubahan harga musiman untuk properti dengan permintaan dinamis, seperti apartemen di daerah dengan event tahunan besar (misalnya, dekat stadion, pusat konvensi, atau distrik perkantoran utama).
 
 Model dapat dijadikan acuan utama untuk properti dengan tren harga yang stabil. Untuk properti dengan fluktuasi harga yang tinggi, model dapat digunakan sebagai alat bantu analisis, dengan referensi tambahan dari tren pasar terkini.
 
