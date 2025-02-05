@@ -96,7 +96,7 @@ Model terbaik adalah **Tuned** `GradientBoostingRegressor`.
 - Sebelumnya, pemilik apartemen kesulitan menentukan harga jual yang kompetitif. Harga terlalu tinggi membuat apartemen sulit terjual, sementara harga terlalu rendah merugikan pemilik. Kurangnya transparansi juga menyulitkan pembeli memperkirakan harga sebenarnya. Dengan model machine learning yang diimplementasikan, perusahaan daeguLiving kini memiliki alat prediksi harga apartemen yang membantu pemilik menetapkan harga lebih adil dan kompetitif, sekaligus meningkatkan efisiensi proses penjualan. Alat ini menghemat waktu, meningkatkan kepuasan pengguna, mempercepat transaksi, dan memperluas basis pelanggan, serta membangun kepercayaan antara pemilik apartemen dan calon pembeli.
 
 ### **Recommendation**
-- A/B Testing
+1. A/B Testing
 
 Implementasikan A/B testing untuk membandingkan keakuratan prediksi harga model dengan metode tradisional, seperti harga pasar atau penilaian oleh agen properti.
 
@@ -106,7 +106,7 @@ Implementasikan A/B testing untuk membandingkan keakuratan prediksi harga model 
 
 Jika model menunjukkan performa yang lebih baik dibandingkan metode tradisional dalam mayoritas kasus, model dapat dijadikan acuan utama dalam menentukan harga properti. Namun, jika model masih memiliki margin error yang besar dalam kasus tertentu, model dapat digunakan sebagai rekomendasi pendukung, dengan verifikasi tambahan oleh agen properti.
 
-- Pengelompokkan Error untuk Optimasi Model
+2. Pengelompokkan Error untuk Optimasi Model
 
 Identifikasi prediksi dengan error tinggi, baik overestimation maupun underestimation. Ambil 5% kasus dengan error paling ekstrim dan analisis hubungannya dengan variabel independen.
 
@@ -116,7 +116,7 @@ Identifikasi prediksi dengan error tinggi, baik overestimation maupun underestim
 
 Model dapat digunakan sebagai acuan utama untuk properti dengan spesifikasi standar. Untuk properti dengan harga tinggi atau fitur unik, disarankan model digunakan sebagai rekomendasi tambahan, dengan analisis manual oleh ahli properti.
 
-- Penambahan Fitur yang Lebih Relevan dengan Harga
+3. Penambahan Fitur yang Lebih Relevan dengan Harga
 
 Tambahkan fitur yang lebih korelatif dengan harga apartemen untuk meningkatkan akurasi prediksi.
 
@@ -128,7 +128,7 @@ Tambahkan fitur yang lebih korelatif dengan harga apartemen untuk meningkatkan a
 
 Jika fitur tambahan meningkatkan akurasi model secara signifikan, model dapat digunakan sebagai acuan utama. Namun, jika masih terdapat ketidakpastian dalam faktor harga, model tetap digunakan sebagai alat bantu rekomendasi dengan validasi tambahan.
 
-- Ekspansi Model untuk Pengembangan Lainnya
+4. Ekspansi Model untuk Pengembangan Lainnya
 
 Model dapat diperluas untuk memprediksi harga properti yang lebih strategis, termasuk apartemen investasi dan unit high-demand.
 
