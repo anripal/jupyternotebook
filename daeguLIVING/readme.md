@@ -92,7 +92,7 @@ Model terbaik adalah **Tuned** `GradientBoostingRegressor`.
 - Model Range: Performa terbaik dengan rentang harga berkisar dari 32,743 USD ~ 585,840 USD. Diluar rentang ini, prediksi rentan terhadap error dan kurang akurat.
 - MAPE Interpretation: MAPE nya 18% yang artinya prediksi harga apartemen berpotensi meleset 18% dari harga seharusnya.
 - Feature Importance: Fitur inti yang sangat berpengaruh terhadap harga apartemen adalah `'Size (sqf)', 'HallwayType' dan 'N_FacilitiesInApt'`.
-- Business Insights: Ukuran apartemen, jumlah fasilitas, dan tipe lorong merupakan faktor utama yang memengaruhi harga apartemen di Daegu, sehingga pengembang properti dapat fokus meningkatkan fitur-fitur ini untuk memaksimalkan nilai jual.
+- Business Insights: Ukuran apartemen, jumlah fasilitas, tahun dibangun dan tipe lorong merupakan faktor utama yang memengaruhi harga apartemen di Daegu, sehingga pengembang properti dapat fokus meningkatkan fitur-fitur ini untuk memaksimalkan nilai jual.
 - Sebelumnya, pemilik apartemen kesulitan menentukan harga jual yang kompetitif. Harga terlalu tinggi membuat apartemen sulit terjual, sementara harga terlalu rendah merugikan pemilik. Kurangnya transparansi juga menyulitkan pembeli memperkirakan harga sebenarnya. Dengan model machine learning yang diimplementasikan, perusahaan daeguLiving kini memiliki alat prediksi harga apartemen yang membantu pemilik menetapkan harga lebih adil dan kompetitif, sekaligus meningkatkan efisiensi proses penjualan. Alat ini menghemat waktu, meningkatkan kepuasan pengguna, mempercepat transaksi, dan memperluas basis pelanggan, serta membangun kepercayaan antara pemilik apartemen dan calon pembeli.
 
 ### **Recommendation**
