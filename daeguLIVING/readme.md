@@ -81,7 +81,7 @@ Model terbaik adalah **Tuned** `GradientBoostingRegressor`.
 | **Model** | **RMSE** | **MAE** | **MAPE %** |
 | --- | --- | --- | --- |
 | GradReg Before Tuning | 46340.670419 | 37157.846718 | 18.27 |
-| GradReg Tuned | 46302.964984 | 36881.581870 | 18.16 |
+| GradReg Tuned | 46251.500817 | 36860.826747 | 18.16 |
 
 <br>
 
