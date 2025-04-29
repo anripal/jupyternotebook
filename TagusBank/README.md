@@ -1,6 +1,6 @@
 # Optimalisasi Strategi Telemarketing dan Prediksi Nasabah Potensial untuk Meningkatkan Convertion Rate Term Deposit
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/hermily1937/viz/AlphaGroup-TelemarketingBankCampaign/Dashboard?publish=yes)
+[Tableau Dashboard]([https://public.tableau.com/app/profile/hermily1937/viz/AlphaGroup-TelemarketingBankCampaign/Dashboard?publish=yes](https://public.tableau.com/app/profile/destaria.anripal/viz/TAGUSBANK-BankTelemarketingCampaign/Dashboard)
 ![Alt text](https://github.com/PurwadhikaDev/AlphaGroup_JC_DS_OL_16_B_FinalProject/blob/main/Tableau.png)
 
 ## Konteks
