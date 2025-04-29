@@ -1,7 +1,7 @@
 # Optimalisasi Strategi Telemarketing dan Prediksi Nasabah Potensial untuk Meningkatkan Convertion Rate Term Deposit
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/destaria.anripal/viz/TAGUSBANK-BankTelemarketingCampaign/Dashboard)
-![Alt text](https://github.com/PurwadhikaDev/AlphaGroup_JC_DS_OL_16_B_FinalProject/blob/main/Tableau.png)
+![Alt text](https://github.com/anripal/jupyternotebook/blob/main/TagusBank/Tableau.png)
 
 ## Konteks
 Perbankan di Portugal memainkan peran penting dalam perekonomian dengan menyediakan berbagai layanan keuangan, termasuk produk investasi seperti *term deposit*. Produk ini memberikan keuntungan bagi bank dalam menjaga stabilitas keuangan serta menawarkan opsi investasi berisiko rendah bagi nasabah. Namun, konversi pelanggan ke produk ini masih menjadi tantangan, terutama dalam strategi pemasaran yang dilakukan melalui telemarketing.
@@ -57,7 +57,7 @@ Berikut tahapan analisis dan pengembangan model yang akan dilakukan:
 - **Implementation**: Menerapkan model sebagai alat bantu bagi tim telemarketing dalam pengambilan keputusan.
 
 ## Metrik Evaluation
-![Alt text](https://raw.githubusercontent.com/PurwadhikaDev/AlphaGroup_JC_DS_OL_16_B_FinalProject/main/metrics.png)
+![Alt text](https://github.com/anripal/jupyternotebook/blob/main/TagusBank/metrics.png)
 
 Metrik utama yang digunakan adalah Precision agar memastikan bahwa sebagian besar nasabah yang dihubungi memiliki potensi konversi tinggi sehingga tim telemarketing dapat fokus pada nasabah yang lebih mungkin menerima penawaran. Namun, kita juga tetap mempertimbangkan trade-off antara Precision dan Recall. Maka kita menggunakan F0.5-Score sebagai metrik pendukung.
 
