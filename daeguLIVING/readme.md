@@ -1,11 +1,11 @@
-# **README**
+# Apartement Price Prediction
+---
+
 Halo! tolong gunakan file ini sebagai panduan sebelum menjalankan Jupyter Notebook File.
 
-Notebook ini dibuat sebagai Capstone Project ketiga saya dalam mengikuti pembelajaran Data Science & Machine Learning bootcamp yang diadakan oleh Purwadhika. Di sini saya akan melakukan implementasi  dasar model machine learning terhadap suatu kasus. Mohon dimaklumi jika ada kesalahan, saya mencoba yang terbaik! :)
+Notebook ini dibuat dengan tujuan akan menjadi portofolio dalam perjalanan saya dalam implementasi Machine Learning. Mohon dimaklumi jika ada kesalahan, saya mencoba yang terbaik!
 
-Dataset yang akan digunakan adalah Daegu Real Estate data. Dataset ini telah saya sediakan di repository atau bisa di download [disini](https://www.kaggle.com/datasets/gunhee/koreahousedata).
-
-Kamu juga bisa melihat slide presentasi nya [disini](https://docs.google.com/presentation/d/149aw-RDeKJYy8Exe1gTs86FH8x30KsjU7MHcuFIF6DU/edit?usp=sharing).
+Kamu juga bisa melihat slide presentasi nya [disini](https://www.canva.com/design/DAGmx6VP0zs/IIoZnFVgmZCZRMf2Pir1qA/edit).
 
 ---
 ## **Apa yang saya lakukan dalam pengimplementasian model Machine Learning ini?**
@@ -139,4 +139,7 @@ Model dapat diperluas untuk memprediksi harga properti yang lebih strategis, ter
 Model dapat dijadikan acuan utama untuk properti dengan tren harga yang stabil. Untuk properti dengan fluktuasi harga yang tinggi, model dapat digunakan sebagai alat bantu analisis, dengan referensi tambahan dari tren pasar terkini.
 
 ---
-###### **Notebook ini dibuat oleh Destaria Anripal**
+
+Sekian solusi berbasis data yang saya sampaikan,
+
+Terima Kasih!
