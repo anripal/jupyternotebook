@@ -1,5 +1,4 @@
 # Optimalisasi Strategi Telemarketing dan Prediksi Nasabah Potensial untuk Meningkatkan Convertion Rate Term Deposit
-
 [Tableau Dashboard](https://public.tableau.com/app/profile/destaria.anripal/viz/TAGUSBANK-BankTelemarketingCampaign/Dashboard)
 ![Alt text](https://github.com/anripal/jupyternotebook/blob/main/TagusBank/Tableau.png)
 
@@ -102,7 +101,7 @@ Berdasarkan analisis yang dilakukan, dapat disimpulkan bahwa keputusan nasabah u
 
 4. Berdasarkan Feature Importance Methode, kolom data penting yang digunakan dalam model meliputi data tentang riwayat kampanye dan hasil sebelumnya, faktor ekonomi (seperti suku bunga dan tingkat ketenagakerjaan), serta frekuensi dan durasi komunikasi antara telemarketing dan nasabah. Kolom-kolom ini terbukti signifikan dalam meningkatkan akurasi prediksi model. Namun, Logistic Regression memiliki keterbatasan dalam menangkap interaksi kompleks antar fitur.
 
-5. Pendekatan berbasis data dengan implementasi model machine learning ini berpotensi meningkatkan conversion rate sebesar 67%, yang jauh lebih tinggi dibandingkan dengan *conversion rate awal yang hanya sebesar 11%. Hal ini menjadikan model ini sebagai solusi yang lebih optimal dan menguntungkan bagi perusahaan, terutama jika dibandingkan dengan hasil yang diperoleh saat eksplorasi data awal.
+5. Pendekatan berbasis data dengan implementasi model machine learning ini berpotensi meningkatkan conversion rate sebesar 67%, yang jauh lebih tinggi dibandingkan dengan conversion rate awal yang hanya sebesar 11%. Hal ini menjadikan model ini sebagai solusi yang lebih optimal dan menguntungkan bagi perusahaan, terutama jika dibandingkan dengan hasil yang diperoleh saat eksplorasi data awal.
 
 ## Rekomendasi
 ### Pendekatan Data Analisis untuk Strategi Telemarketing Bank
@@ -125,3 +124,10 @@ Berdasarkan analisis yang dilakukan, dapat disimpulkan bahwa keputusan nasabah u
 - **Integrasi Model Prediksi dalam Skrip Telemarketing:** Hasil prediksi dari model dapat diintegrasikan langsung dalam skrip atau sistem telemarketing. Telemarketer dapat melihat skor prediksi atau probabilitas bahwa nasabah cenderung menerima tawaran (*warm to hot leads*) atau menolak tawaran (*cold leads*) sebelum melakukan panggilan. Dengan demikian, mereka bisa lebih siap dan menyesuaikan pendekatan mereka berdasarkan data tersebut, misalnya dengan menawarkan produk yang lebih relevan atau memberikan penawaran khusus berdasarkan profil nasabah.
 
 - **Penyesuaian dan Pembaruan Berdasarkan Feedback Pengguna:** Mengingat keterbatasan waktu dalam pengembangan model, penting untuk membangun siklus pembelajaran yang berkelanjutan. Feedback dari tim telemarketing dan hasil kampanye dapat digunakan untuk memperbarui dan menyesuaikan model secara berkala. Ini akan memastikan bahwa model dapat tetap relevan dan akurat seiring berjalannya waktu.
+
+
+Sekian solusi berbasis data yang saya sampaikan, untuk versi Slide Presentation nya ada disini:
+
+[Slide Presentation](https://www.canva.com/design/DAGgd0Ozy9Q/dRbt4NSzev-HoHXDNkY3Yw/edit?utm_content=DAGgd0Ozy9Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+Terima Kasih!
