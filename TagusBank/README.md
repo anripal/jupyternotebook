@@ -102,7 +102,7 @@ Berdasarkan analisis yang dilakukan, dapat disimpulkan bahwa keputusan nasabah u
 
 4. Berdasarkan Feature Importance Methode, kolom data penting yang digunakan dalam model meliputi data tentang riwayat kampanye dan hasil sebelumnya, faktor ekonomi (seperti suku bunga dan tingkat ketenagakerjaan), serta frekuensi dan durasi komunikasi antara telemarketing dan nasabah. Kolom-kolom ini terbukti signifikan dalam meningkatkan akurasi prediksi model. Namun, Logistic Regression memiliki keterbatasan dalam menangkap interaksi kompleks antar fitur.
 
-5. Pendekatan berbasis data dengan implementasi model machine learning ini berpotensi meningkatkan conversion rate sebesar 21%, yang jauh lebih tinggi dibandingkan dengan*conversion rate awal yang hanya sebesar 11%. Hal ini menjadikan model ini sebagai solusi yang lebih optimal dan menguntungkan bagi perusahaan, terutama jika dibandingkan dengan hasil yang diperoleh saat eksplorasi data awal.
+5. Pendekatan berbasis data dengan implementasi model machine learning ini berpotensi meningkatkan conversion rate sebesar 67%, yang jauh lebih tinggi dibandingkan dengan *conversion rate awal yang hanya sebesar 11%. Hal ini menjadikan model ini sebagai solusi yang lebih optimal dan menguntungkan bagi perusahaan, terutama jika dibandingkan dengan hasil yang diperoleh saat eksplorasi data awal.
 
 ## Rekomendasi
 ### Pendekatan Data Analisis untuk Strategi Telemarketing Bank
