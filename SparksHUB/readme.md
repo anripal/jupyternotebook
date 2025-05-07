@@ -1,13 +1,14 @@
-# **README**
+# SparksHUB Software Product Analysis
+![Alt text](https://github.com/anripal/jupyternotebook/blob/main/SparksHUB/Tableau.png)
+
+---
 Halo! tolong gunakan file ini sebagai panduan sebelum menjalankan Jupyter Notebook File.
 
 Notebook ini dibuat dengan tujuan akan menjadi portofolio dalam perjalanan saya sebagai Data Analyst. Mohon dimaklumi jika ada kesalahan, saya mencoba yang terbaik!
 
-Dataset yang akan dianalisis adalah SaaS (Software as Service) Company data. Dataset ini telah saya sediakan di repository atau bisa di download [disini](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales).
-
 Kamu bisa kunjungi versi Tableu dari analisis dataset [disini](https://public.tableau.com/app/profile/destaria.anripal/viz/SaaS_CapstoneProjMod2_DestariaAnripal/Dashboard1)
 
-Untuk versi presentasi, ada [disini](https://drive.google.com/drive/folders/1Zm_R4gzKz_5BnsEwMPn85-bEFIXLPul9)
+Untuk versi presentasi, ada [disini](https://docs.google.com/presentation/d/1jV4gVUUTBJI9t3sTNL0fosiwiWOZd5-N/edit?usp=sharing&ouid=106732643421889315507&rtpof=true&sd=true)
 
 ---
 
@@ -174,3 +175,7 @@ Secara industri yang dilayani:
 - Tawarkan fitur tambahan lewat uji coba gratis selama 90 hari untuk produk yang dibeli MISC Industry, sebagai strategi agar sektor ini lebih sering melakukan transaksi dan tetap menjaga profitnya yang tinggi.
 
 ---
+
+Sekian solusi berbasis data yang saya sampaikan,
+
+Terima Kasih!
