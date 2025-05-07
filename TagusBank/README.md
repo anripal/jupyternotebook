@@ -1,6 +1,16 @@
 # Optimalisasi Strategi Telemarketing dan Prediksi Nasabah Potensial untuk Meningkatkan Convertion Rate Term Deposit
-[Tableau Dashboard](https://public.tableau.com/app/profile/destaria.anripal/viz/TAGUSBANK-BankTelemarketingCampaign/Dashboard)
 ![Alt text](https://github.com/anripal/jupyternotebook/blob/main/TagusBank/Tableau.png)
+---
+Halo! tolong gunakan file ini sebagai panduan sebelum menjalankan Jupyter Notebook File.
+
+Notebook ini dibuat dengan tujuan akan menjadi portofolio dalam perjalanan saya sebagai Data Analyst. Mohon dimaklumi jika ada kesalahan, saya mencoba yang terbaik!
+
+Dataset yang akan dianalisis adalah SaaS (Software as Service) Company data. Dataset ini telah saya sediakan di repository.
+
+Kamu bisa kunjungi versi Tableu dari analisis dataset [disini](https://public.tableau.com/app/profile/destaria.anripal/viz/TAGUSBANK-BankTelemarketingCampaign/Dashboard)
+
+Untuk versi slide presentasi, ada [disini](https://www.canva.com/design/DAGgd0Ozy9Q/dRbt4NSzev-HoHXDNkY3Yw/edit?utm_content=DAGgd0Ozy9Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+---
 
 ## Konteks
 Perbankan di Portugal memainkan peran penting dalam perekonomian dengan menyediakan berbagai layanan keuangan, termasuk produk investasi seperti *term deposit*. Produk ini memberikan keuntungan bagi bank dalam menjaga stabilitas keuangan serta menawarkan opsi investasi berisiko rendah bagi nasabah. Namun, konversi pelanggan ke produk ini masih menjadi tantangan, terutama dalam strategi pemasaran yang dilakukan melalui telemarketing.
@@ -126,8 +136,6 @@ Berdasarkan analisis yang dilakukan, dapat disimpulkan bahwa keputusan nasabah u
 - **Penyesuaian dan Pembaruan Berdasarkan Feedback Pengguna:** Mengingat keterbatasan waktu dalam pengembangan model, penting untuk membangun siklus pembelajaran yang berkelanjutan. Feedback dari tim telemarketing dan hasil kampanye dapat digunakan untuk memperbarui dan menyesuaikan model secara berkala. Ini akan memastikan bahwa model dapat tetap relevan dan akurat seiring berjalannya waktu.
 
 
-Sekian solusi berbasis data yang saya sampaikan, untuk versi Slide Presentation nya ada disini:
-
-[Slide Presentation](https://www.canva.com/design/DAGgd0Ozy9Q/dRbt4NSzev-HoHXDNkY3Yw/edit?utm_content=DAGgd0Ozy9Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Sekian solusi berbasis data yang saya sampaikan,
 
 Terima Kasih!
