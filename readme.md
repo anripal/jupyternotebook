@@ -9,18 +9,7 @@ Repositori ini berisi **tiga proyek utama** yang saya kerjakan selama bootcamp D
 
 ## Daftar Proyek
 
-### 1. [SparksHUB - Software Product Analysis](./SparksHUB)
-> **Tipe Proyek:** Business Analytics + Tableau  
-> **Fokus:** Evaluasi profitabilitas produk, efektivitas diskon, analisis pelanggan, dan wilayah penjualan  
-> **Tools:** Python (Pandas, Matplotlib, Seaborn), Tableau, Canva  
-> **Hasil:** Rekomendasi strategi berdasarkan performa produk dan segmen pelanggan  
->  
-🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/destaria.anripal/viz/SaaS_CapstoneProjMod2_DestariaAnripal/Dashboard1)  
-🔗 [Presentasi Proyek](https://www.canva.com/design/DAGmx4Ih1Cw/VNrF6GZCOqr1TLNJZnhrJA/edit?utm_content=DAGmx4Ih1Cw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
----
-
-### 2. [Tagus Bank - Optimalisasi Strategi Telemarketing dan Prediksi Nasabah Potensial untuk Meningkatkan Convertion Rate Term Deposit](./TagusBank)
+### 1. [Tagus Bank - Optimalisasi Strategi Telemarketing dan Prediksi Nasabah Potensial untuk Meningkatkan Convertion Rate Term Deposit](./TagusBank)
 > **Tipe Proyek:** Classification Modeling  
 > **Fokus:** Memprediksi keputusan nasabah untuk mengambil penawaran deposito jangka panjang  
 > **Tools:** Python (Pandas, Scikit-learn, XGBoost, VotingClassifier)  
@@ -31,13 +20,24 @@ Repositori ini berisi **tiga proyek utama** yang saya kerjakan selama bootcamp D
 
 ---
 
-### 3. [daeguLIVING - Apartement Price Prediction](./daeguLIVING)
+### 2. [daeguLIVING - Apartement Price Prediction](./daeguLIVING)
 > **Tipe Proyek:** Regression Modeling  
 > **Fokus:** Memprediksi harga apartemen berdasarkan fitur properti dan lokasi  
 > **Tools:** Python (Pandas, Scikit-learn, SVR, GradientBoosting, GridSearchCV)  
 > **Hasil:** Model regresi terbaik dengan interpretasi fitur penting dan insight pengembangan bisnis properti
 >   
 🔗 [Presentasi Proyek](https://www.canva.com/design/DAGmx6VP0zs/IIoZnFVgmZCZRMf2Pir1qA/edit)
+
+---
+
+### 3. [SparksHUB - Software Product Analysis](./SparksHUB)
+> **Tipe Proyek:** Business Analytics + Tableau  
+> **Fokus:** Evaluasi profitabilitas produk, efektivitas diskon, analisis pelanggan, dan wilayah penjualan  
+> **Tools:** Python (Pandas, Matplotlib, Seaborn), Tableau, Canva  
+> **Hasil:** Rekomendasi strategi berdasarkan performa produk dan segmen pelanggan  
+>  
+🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/destaria.anripal/viz/SaaS_CapstoneProjMod2_DestariaAnripal/Dashboard1)  
+🔗 [Presentasi Proyek](https://www.canva.com/design/DAGmx4Ih1Cw/VNrF6GZCOqr1TLNJZnhrJA/edit?utm_content=DAGmx4Ih1Cw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
