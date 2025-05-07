@@ -1,4 +1,4 @@
-# Optimalisasi Strategi Telemarketing dan Prediksi Nasabah Potensial untuk Meningkatkan Convertion Rate Term Deposit
+# Optimalisasi Strategi Telemarketing dan Prediksi Nasabah Potensial untuk Meningkatkan Conversion Rate Term Deposit
 ![Alt text](https://github.com/anripal/jupyternotebook/blob/main/TagusBank/Tableau.png)
 
 ---
