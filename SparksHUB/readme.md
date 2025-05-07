@@ -1,7 +1,7 @@
 # **README**
 Halo! tolong gunakan file ini sebagai panduan sebelum menjalankan Jupyter Notebook File.
 
-Notebook ini dibuat sebagai Capstone Project kedua saya sebagai student di Data Science & Machine Learning bootcamp yang diadakan oleh Purwadhika. Di sini saya akan melakukan analisis disebuah dataset. Tujuannya, ini akan menjadi portofolio dalam perjalanan saya sebagai Data Analyst. Mohon dimaklumi jika ada kesalahan, saya mencoba yang terbaik! :)
+Notebook ini dibuat dengan tujuan akan menjadi portofolio dalam perjalanan saya sebagai Data Analyst. Mohon dimaklumi jika ada kesalahan, saya mencoba yang terbaik!
 
 Dataset yang akan dianalisis adalah SaaS (Software as Service) Company data. Dataset ini telah saya sediakan di repository atau bisa di download [disini](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales).
 
