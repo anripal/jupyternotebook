@@ -8,7 +8,7 @@ Notebook ini dibuat dengan tujuan akan menjadi portofolio dalam perjalanan saya 
 
 Kamu bisa kunjungi versi Tableu dari analisis dataset [disini](https://public.tableau.com/app/profile/destaria.anripal/viz/SaaS_CapstoneProjMod2_DestariaAnripal/Dashboard1)
 
-Untuk versi presentasi ada [disini].(https://docs.google.com/presentation/d/1jV4gVUUTBJI9t3sTNL0fosiwiWOZd5-N/edit?usp=sharing&ouid=106732643421889315507&rtpof=true&sd=true)
+Untuk versi presentasi ada [disini.](https://docs.google.com/presentation/d/1jV4gVUUTBJI9t3sTNL0fosiwiWOZd5-N/edit?usp=sharing&ouid=106732643421889315507&rtpof=true&sd=true)
 
 ---
 
